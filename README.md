@@ -1,6 +1,10 @@
 # WebForm-Assessment
 Repository for a web form assessment covering network debugging, form validation using JavaScript, HTML form creation, and CSS styling techniques. Includes solutions with explanations and best practices for creating accessible, responsive web forms.
 
+## Task 1: Network Debugging
+- File: `Task1-Network_Debugging.md`
+- Summary: Instructions on using the browser's developer tools to troubleshoot network issues during form submission.
+
 ## Task 3: Web Form Creation
 - File: `Task3a-Web_Form.html`
 - Summary: A semantically correct and accessible HTML form that collects Name, Email, and Password for users.
