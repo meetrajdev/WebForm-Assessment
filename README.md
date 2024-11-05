@@ -5,6 +5,16 @@ Repository for a web form assessment covering network debugging, form validation
 - File: `Task1-Network_Debugging.md`
 - Summary: Instructions on using the browser's developer tools to troubleshoot network issues during form submission.
 
+## Task 2: Form Validation (JavaScript)
+- File: `Task2a-Form_Validation.js`
+- Summary: JavaScript code for validating form input fields, including email format validation, password strength, and preventing submission of invalid data. This is refrenced in 'Task2b-Web_Form_Validation.html'.
+
+- File: `Task2b-Web_Form_Validation.html`
+- Summary: Includes HTML form that refers to external JavaScript file 'Task2a-Form_Validation.js' for data validation.
+
+- File: `Task2c-Web_Form_Validation_Inline.html`
+- Summary: Includes HTML form that refers to JavaScript inline for data validation.
+
 ## Task 3: Web Form Creation
 - File: `Task3a-Web_Form.html`
 - Summary: A semantically correct and accessible HTML form that collects Name, Email, and Password for users.
@@ -17,7 +27,7 @@ Repository for a web form assessment covering network debugging, form validation
 - Summary: CSS styles applied to the HTML form to improve usability and appearance.
 
 - File: `Task4b-Web_Form_Styling.html`
-- Summary: HTML file that refers to the CSS style file mentioned above.
+- Summary: HTML file that refers to the CSS style file 'Task4a-Form_Styling.css'.
 
 - File: `Task4c-CSS_Best_Practices.md`
 - Summary: Includes best practices while using CSS.
