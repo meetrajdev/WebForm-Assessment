@@ -3,8 +3,10 @@ Repository for a web form assessment covering network debugging, form validation
 
 ## Task 3: Web Form Creation
 - File: `Task3-Web_Form.html'
+- Summary: A semantically correct and accessible HTML form that collects Name, Email, and Password for users.
+
 - File: 'Task3b-Web_Form_Accessibility.md'
-- Summary: A semantically correct and accessible HTML form that collects Name, Email, and Password for users. Includes explaination in Task3b-Web_Form_Accessibility.md file.
+- Summary: Includes explaination for semantics and accessibility considerations in the form.
 
 ## Task 5: Linux Permissions
 - File: `Task5-Linux_Permissions.md`
