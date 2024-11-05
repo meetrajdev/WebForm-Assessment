@@ -3,7 +3,7 @@ Ways to ensure Semantic Correctness and Accessibility
 To make the form both semantically correct and accessible, the following considerations were applied:
 
 1. Semantic HTML Tags:
-The form uses standard HTML elements like <form>, <label>, <input>, and <button>, which are semantically appropriate for a user input form. Each <input> field is associated with a <label> element, using the for attribute in <label> to match the id attribute in <input>. This association helps screen readers correctly interpret which label belongs to each field, enhancing accessibility.
+The form uses standard HTML elements like form, label, input, and <button>, which are semantically appropriate for a user input form. Each <input> field is associated with a label element, using the for attribute in <label> to match the id attribute in <input>. This association helps screen readers correctly interpret which label belongs to each field, enhancing accessibility.
 
 2. Accessible Field Attributes:
 - Required Fields: The required attribute is added to each field to inform users that these fields must be filled out before submission.
