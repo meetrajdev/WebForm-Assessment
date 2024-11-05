@@ -8,7 +8,7 @@ Repository for a web form assessment covering network debugging, form validation
 - File: `Task3b-Web_Form_Accessibility.md`
 - Summary: Includes explaination for semantics and accessibility considerations in the form.
 
-## Task 4: Web Form Creation
+## Task 4: Web Form Creation with CSS Styling
 - File: `Task4a-Form_Styling.css`
 - Summary: CSS styles applied to the HTML form to improve usability and appearance.
 
@@ -18,6 +18,6 @@ Repository for a web form assessment covering network debugging, form validation
 - File: `Task4c-CSS_Best_Practices.md`
 - Summary: Includes best practices while using CSS.
 
-## Task 5: Linux Permissions
+## Task 5: Setting Linux Permissions
 - File: `Task5-Linux_Permissions.md`
 - Summary: Command example for changing file permissions so only the owner has read and write access, along with an explanation of the command.
