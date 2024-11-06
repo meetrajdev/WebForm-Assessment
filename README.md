@@ -13,7 +13,7 @@ Repository for a web form assessment covering network debugging, form validation
 - Summary: Includes HTML form that refers to external JavaScript file 'Task2a-Form_Validation.js' for data validation.
 
 - File: `Task2c-Web_Form_Validation_Inline.html`
-- Summary: Includes HTML form that refers to JavaScript inline for data validation.
+- Summary: Includes HTML form that refers to JavaScript inline for data validation, including events such as onLoad, onBlur.
 
 ## Task 3: Web Form Creation
 - File: `Task3a-Web_Form.html`
